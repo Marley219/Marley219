@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# Hi there 👋
+## I'm Marley She/Her
+### I am currently working on earning my CompTIA Security+ certificate, learning Python and completing the SOC Analyst path on Let's Defend. 
+### Any advice in coding would be greatly appreciated, along with projects I can add to my portfolio. 
 <!--
 **Marley219/Marley219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
